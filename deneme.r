@@ -1,0 +1,1 @@
+df <- read.csv("hitters_eda.csv")
